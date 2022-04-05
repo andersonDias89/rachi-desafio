@@ -1,0 +1,17 @@
+:root {
+
+    /*CORES*/
+    --cor-btn: #0f9afe;
+    --cor-title:rgb(41, 49, 69);
+    --cor-text: #6e7275;
+    --cor-bg-branco: #ffffff;
+    --cor-bg-claro:#eff8ff;
+    --cor-bg-cinza-claro:#bdbdbd;
+
+    /*Fontes*/
+    --font-title: 'Sora', sans-serif;
+    --font-text: 'Inter', sans-serif;
+    --font-number: 'Roboto', sans-serif;
+    --size-font-h2: 40px;
+    
+}

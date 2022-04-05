@@ -1,0 +1,11 @@
+{
+  "name": "rachi",
+  "version": "1.0.0",
+  "description": "desafio site rachi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anderson Dias",
+  "license": "ISC"
+}
