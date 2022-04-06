@@ -6,6 +6,7 @@
     justify-content: center;
     align-items: center;
     position: fixed;
+    
 }
 
 
@@ -45,21 +46,16 @@
     
 }
 
-@media screen and (max-width: 800px){
-    .menu{
-        justify-content: start;
-    }
-    .links{
-        display: none;
-        
-    }
-
-    menu .logo img{
-        width: 70px;
-        margin: 0;
-        
+@media screen and (max-width: 950px){
+  .menu{
+      display: none;
+  }
+  .menu .links li a{
+   
+    font-size: 14px;
     
-    }
+    
+}
    
 }
 

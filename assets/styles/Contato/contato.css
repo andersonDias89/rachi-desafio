@@ -28,7 +28,7 @@
 }
 
 .contact form{
-    width: 40%;
+    width: 80%;
     margin: auto;
     padding-top: 80px;
     border-bottom: 1px solid var(--cor-bg-branco);
@@ -57,4 +57,19 @@
     font-family: var(--font-text);
     cursor: pointer;
    
+}
+
+@media screen and (max-width: 800px){
+    .contact form input{
+        width: 70%;
+        
+    
+    }
+}
+
+@media screen and (max-width: 375px){
+    .container__contact{
+        width: 90%;
+        margin: auto;
+    }
 }
